@@ -1,6 +1,10 @@
+# Rusty-rocket
 
+Simple API for library workers.
 
 ## Run app
+
+Create database, run migrations and start api using one command:
 ``` {bash}
 make start
 ```
